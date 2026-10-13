@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Clothes
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Clothes
+  Words:
+  - Text: ANKLET
+    IsFound: 0
+  - Text: APRON
+    IsFound: 0
+  - Text: BANDANA
+    IsFound: 0
+  - Text: BATHROBE
+    IsFound: 0
+  - Text: BELT
+    IsFound: 0
+  - Text: BERET
+    IsFound: 0
+  - Text: BIKINI
+    IsFound: 0
+  - Text: BLAZER
+    IsFound: 0
+  - Text: BLOUSE
+    IsFound: 0
+  - Text: BOA
+    IsFound: 0
+  - Text: BOOTS
+    IsFound: 0
+  - Text: BOWTIE
+    IsFound: 0
+  - Text: BOXERS
+    IsFound: 0
+  - Text: BRA
+    IsFound: 0
+  - Text: BRACELET
+    IsFound: 0
+  - Text: BROOCH
+    IsFound: 0
+  - Text: CAP
+    IsFound: 0
+  - Text: CARDIGAN
+    IsFound: 0
+  - Text: COAT
+    IsFound: 0
+  - Text: CORSET
+    IsFound: 0
+  - Text: COSTUME
+    IsFound: 0
+  - Text: CUFFLINKS
+    IsFound: 0
+  - Text: DRESS
+    IsFound: 0
+  - Text: EARMUFFS
+    IsFound: 0
+  - Text: FLIPFLOPS
+    IsFound: 0
+  - Text: FLEECE
+    IsFound: 0
+  - Text: GLOVES
+    IsFound: 0
+  - Text: GOWN
+    IsFound: 0
+  - Text: HANDKERCHIEF
+    IsFound: 0
+  - Text: HAT
+    IsFound: 0
+  - Text: HEADBAND
+    IsFound: 0
+  - Text: HELMET
+    IsFound: 0
+  - Text: HOODIE
+    IsFound: 0
+  - Text: JACKET
+    IsFound: 0
+  - Text: JEANS
+    IsFound: 0
+  - Text: JERSEY
+    IsFound: 0
+  - Text: KILT
+    IsFound: 0
+  - Text: KNICKERS
+    IsFound: 0
+  - Text: LEGGINGS
+    IsFound: 0
+  - Text: LOAFERS
+    IsFound: 0
+  - Text: MITTENS
+    IsFound: 0
+  - Text: NECKLACE
+    IsFound: 0
+  - Text: NIGHTGOWN
+    IsFound: 0
+  - Text: OVERALLS
+    IsFound: 0
+  - Text: PAJAMAS
+    IsFound: 0
+  - Text: PANTS
+    IsFound: 0
+  - Text: PENDANT
+    IsFound: 0
+  - Text: POCKET
+    IsFound: 0
+  - Text: POLOSHIRT
+    IsFound: 0
+  - Text: PONCHO
+    IsFound: 0
+  - Text: PURSE
+    IsFound: 0
+  - Text: RAINCOAT
+    IsFound: 0
+  - Text: RING
+    IsFound: 0
+  - Text: ROBE
+    IsFound: 0
+  - Text: SANDALS
+    IsFound: 0
+  - Text: SARONG
+    IsFound: 0
+  - Text: SCARF
+    IsFound: 0
+  - Text: SHIRT
+    IsFound: 0
+  - Text: SHOELACES
+    IsFound: 0
+  - Text: SHOES
+    IsFound: 0
+  - Text: SHORTS
+    IsFound: 0
+  - Text: SKIRT
+    IsFound: 0
+  - Text: SLIPPERS
+    IsFound: 0
+  - Text: SLACKS
+    IsFound: 0
+  - Text: SLIPPER
+    IsFound: 0
+  - Text: SLIPDRESS
+    IsFound: 0
+  - Text: SOCKS
+    IsFound: 0
+  - Text: STOCKINGS
+    IsFound: 0
+  - Text: SUIT
+    IsFound: 0
+  - Text: SUNGLASSES
+    IsFound: 0
+  - Text: SUSPENDERS
+    IsFound: 0
+  - Text: SWEATER
+    IsFound: 0
+  - Text: SWEATPANTS
+    IsFound: 0
+  - Text: SWEATSHIRT
+    IsFound: 0
+  - Text: TANKTOP
+    IsFound: 0
+  - Text: TIE
+    IsFound: 0
+  - Text: TIGHTS
+    IsFound: 0
+  - Text: TOP
+    IsFound: 0
+  - Text: TRACKSUIT
+    IsFound: 0
+  - Text: TROUSERS
+    IsFound: 0
+  - Text: TUNIC
+    IsFound: 0
+  - Text: TURTLENECK
+    IsFound: 0
+  - Text: UMBRELLA
+    IsFound: 0
+  - Text: UNDERWEAR
+    IsFound: 0
+  - Text: UNIFORM
+    IsFound: 0
+  - Text: VEST
+    IsFound: 0
+  - Text: WAISTCOAT
+    IsFound: 0
+  - Text: WALLET
+    IsFound: 0
+  - Text: WATCH
+    IsFound: 0
+  - Text: WINDBREAKER
+    IsFound: 0
+  - Text: ZIPPER
+    IsFound: 0

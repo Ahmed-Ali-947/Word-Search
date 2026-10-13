@@ -1,0 +1,400 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Countires
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Countires
+  Words:
+  - Text: AFGHANISTAN
+    IsFound: 0
+  - Text: ALBANIA
+    IsFound: 0
+  - Text: ALGERIA
+    IsFound: 0
+  - Text: ANDORRA
+    IsFound: 0
+  - Text: ANGOLA
+    IsFound: 0
+  - Text: ANTIGUA
+    IsFound: 0
+  - Text: ARGENTINA
+    IsFound: 0
+  - Text: ARMENIA
+    IsFound: 0
+  - Text: AUSTRALIA
+    IsFound: 0
+  - Text: AUSTRIA
+    IsFound: 0
+  - Text: AZERBAIJAN
+    IsFound: 0
+  - Text: BAHAMAS
+    IsFound: 0
+  - Text: BAHRAIN
+    IsFound: 0
+  - Text: BANGLADESH
+    IsFound: 0
+  - Text: BARBADOS
+    IsFound: 0
+  - Text: BELARUS
+    IsFound: 0
+  - Text: BELGIUM
+    IsFound: 0
+  - Text: BELIZE
+    IsFound: 0
+  - Text: BENIN
+    IsFound: 0
+  - Text: BHUTAN
+    IsFound: 0
+  - Text: BOLIVIA
+    IsFound: 0
+  - Text: BOSNIA
+    IsFound: 0
+  - Text: BOTSWANA
+    IsFound: 0
+  - Text: BRAZIL
+    IsFound: 0
+  - Text: BRUNEI
+    IsFound: 0
+  - Text: BULGARIA
+    IsFound: 0
+  - Text: BURKINAFASO
+    IsFound: 0
+  - Text: BURUNDI
+    IsFound: 0
+  - Text: CABOVERDE
+    IsFound: 0
+  - Text: CAMBODIA
+    IsFound: 0
+  - Text: CAMEROON
+    IsFound: 0
+  - Text: CANADA
+    IsFound: 0
+  - Text: CENTRALAFRICANREPUBLIC
+    IsFound: 0
+  - Text: CHAD
+    IsFound: 0
+  - Text: CHILE
+    IsFound: 0
+  - Text: CHINA
+    IsFound: 0
+  - Text: COLOMBIA
+    IsFound: 0
+  - Text: COMOROS
+    IsFound: 0
+  - Text: CONGO
+    IsFound: 0
+  - Text: COSTARICA
+    IsFound: 0
+  - Text: CROATIA
+    IsFound: 0
+  - Text: CUBA
+    IsFound: 0
+  - Text: CYPRUS
+    IsFound: 0
+  - Text: CZECHIA
+    IsFound: 0
+  - Text: DENMARK
+    IsFound: 0
+  - Text: DJIBOUTI
+    IsFound: 0
+  - Text: DOMINICA
+    IsFound: 0
+  - Text: DOMINICANREPUBLIC
+    IsFound: 0
+  - Text: ECUADOR
+    IsFound: 0
+  - Text: EGYPT
+    IsFound: 0
+  - Text: ELSALVADOR
+    IsFound: 0
+  - Text: EQUATORIALGUINEA
+    IsFound: 0
+  - Text: ERITREA
+    IsFound: 0
+  - Text: ESTONIA
+    IsFound: 0
+  - Text: ESWATINI
+    IsFound: 0
+  - Text: ETHIOPIA
+    IsFound: 0
+  - Text: FIJI
+    IsFound: 0
+  - Text: FINLAND
+    IsFound: 0
+  - Text: FRANCE
+    IsFound: 0
+  - Text: GABON
+    IsFound: 0
+  - Text: GAMBIA
+    IsFound: 0
+  - Text: GEORGIA
+    IsFound: 0
+  - Text: GERMANY
+    IsFound: 0
+  - Text: GHANA
+    IsFound: 0
+  - Text: GREECE
+    IsFound: 0
+  - Text: GRENADA
+    IsFound: 0
+  - Text: GUATEMALA
+    IsFound: 0
+  - Text: GUINEA
+    IsFound: 0
+  - Text: GUINEABISSAU
+    IsFound: 0
+  - Text: GUYANA
+    IsFound: 0
+  - Text: HAITI
+    IsFound: 0
+  - Text: HONDURAS
+    IsFound: 0
+  - Text: HUNGARY
+    IsFound: 0
+  - Text: ICELAND
+    IsFound: 0
+  - Text: INDIA
+    IsFound: 0
+  - Text: INDONESIA
+    IsFound: 0
+  - Text: IRAN
+    IsFound: 0
+  - Text: IRAQ
+    IsFound: 0
+  - Text: IRELAND
+    IsFound: 0
+  - Text: ISRAEL
+    IsFound: 0
+  - Text: ITALY
+    IsFound: 0
+  - Text: JAMAICA
+    IsFound: 0
+  - Text: JAPAN
+    IsFound: 0
+  - Text: JORDAN
+    IsFound: 0
+  - Text: KAZAKHSTAN
+    IsFound: 0
+  - Text: KENYA
+    IsFound: 0
+  - Text: KIRIBATI
+    IsFound: 0
+  - Text: KUWAIT
+    IsFound: 0
+  - Text: KYRGYZSTAN
+    IsFound: 0
+  - Text: LAOS
+    IsFound: 0
+  - Text: LATVIA
+    IsFound: 0
+  - Text: LEBANON
+    IsFound: 0
+  - Text: LESOTHO
+    IsFound: 0
+  - Text: LIBERIA
+    IsFound: 0
+  - Text: LIBYA
+    IsFound: 0
+  - Text: LIECHTENSTEIN
+    IsFound: 0
+  - Text: LITHUANIA
+    IsFound: 0
+  - Text: LUXEMBOURG
+    IsFound: 0
+  - Text: MADAGASCAR
+    IsFound: 0
+  - Text: MALAWI
+    IsFound: 0
+  - Text: MALAYSIA
+    IsFound: 0
+  - Text: MALDIVES
+    IsFound: 0
+  - Text: MALI
+    IsFound: 0
+  - Text: MALTA
+    IsFound: 0
+  - Text: MARSHALLISLANDS
+    IsFound: 0
+  - Text: MAURITANIA
+    IsFound: 0
+  - Text: MAURITIUS
+    IsFound: 0
+  - Text: MEXICO
+    IsFound: 0
+  - Text: MICRONESIA
+    IsFound: 0
+  - Text: MOLDOVA
+    IsFound: 0
+  - Text: MONGOLIA
+    IsFound: 0
+  - Text: MONTENEGRO
+    IsFound: 0
+  - Text: MOROCCO
+    IsFound: 0
+  - Text: MOZAMBIQUE
+    IsFound: 0
+  - Text: MYANMAR
+    IsFound: 0
+  - Text: NAMIBIA
+    IsFound: 0
+  - Text: NAURU
+    IsFound: 0
+  - Text: NEPAL
+    IsFound: 0
+  - Text: NETHERLANDS
+    IsFound: 0
+  - Text: NEWZEALAND
+    IsFound: 0
+  - Text: NICARAGUA
+    IsFound: 0
+  - Text: NIGER
+    IsFound: 0
+  - Text: NIGERIA
+    IsFound: 0
+  - Text: NORTHKOREA
+    IsFound: 0
+  - Text: NORTHMACEDONIA
+    IsFound: 0
+  - Text: NORWAY
+    IsFound: 0
+  - Text: OMAN
+    IsFound: 0
+  - Text: PAKISTAN
+    IsFound: 0
+  - Text: PALAU
+    IsFound: 0
+  - Text: PANAMA
+    IsFound: 0
+  - Text: PAPUANEWGUINEA
+    IsFound: 0
+  - Text: PARAGUAY
+    IsFound: 0
+  - Text: PERU
+    IsFound: 0
+  - Text: PHILIPPINES
+    IsFound: 0
+  - Text: POLAND
+    IsFound: 0
+  - Text: PORTUGAL
+    IsFound: 0
+  - Text: QATAR
+    IsFound: 0
+  - Text: ROMANIA
+    IsFound: 0
+  - Text: RUSSIA
+    IsFound: 0
+  - Text: RWANDA
+    IsFound: 0
+  - Text: SAINTKITTS
+    IsFound: 0
+  - Text: SAINTLUCIA
+    IsFound: 0
+  - Text: SAINTVINCENT
+    IsFound: 0
+  - Text: SAMOA
+    IsFound: 0
+  - Text: SANMARINO
+    IsFound: 0
+  - Text: SAOTOME
+    IsFound: 0
+  - Text: SAUDIARABIA
+    IsFound: 0
+  - Text: SENEGAL
+    IsFound: 0
+  - Text: SERBIA
+    IsFound: 0
+  - Text: SEYCHELLES
+    IsFound: 0
+  - Text: SIERRALEONE
+    IsFound: 0
+  - Text: SINGAPORE
+    IsFound: 0
+  - Text: SLOVAKIA
+    IsFound: 0
+  - Text: SLOVENIA
+    IsFound: 0
+  - Text: SOLOMONISLANDS
+    IsFound: 0
+  - Text: SOMALIA
+    IsFound: 0
+  - Text: SOUTHAFRICA
+    IsFound: 0
+  - Text: SOUTHKOREA
+    IsFound: 0
+  - Text: SOUTHSUDAN
+    IsFound: 0
+  - Text: SPAIN
+    IsFound: 0
+  - Text: SRILANKA
+    IsFound: 0
+  - Text: SUDAN
+    IsFound: 0
+  - Text: SURINAME
+    IsFound: 0
+  - Text: SWEDEN
+    IsFound: 0
+  - Text: SWITZERLAND
+    IsFound: 0
+  - Text: SYRIA
+    IsFound: 0
+  - Text: TAIWAN
+    IsFound: 0
+  - Text: TAJIKISTAN
+    IsFound: 0
+  - Text: TANZANIA
+    IsFound: 0
+  - Text: THAILAND
+    IsFound: 0
+  - Text: TIMORLESTE
+    IsFound: 0
+  - Text: TOGO
+    IsFound: 0
+  - Text: TONGA
+    IsFound: 0
+  - Text: TRINIDAD
+    IsFound: 0
+  - Text: TUNISIA
+    IsFound: 0
+  - Text: TURKEY
+    IsFound: 0
+  - Text: TURKMENISTAN
+    IsFound: 0
+  - Text: TUVALU
+    IsFound: 0
+  - Text: UGANDA
+    IsFound: 0
+  - Text: UKRAINE
+    IsFound: 0
+  - Text: UNITEDARABEMIRATES
+    IsFound: 0
+  - Text: UNITEDKINGDOM
+    IsFound: 0
+  - Text: UNITEDSTATES
+    IsFound: 0
+  - Text: URUGUAY
+    IsFound: 0
+  - Text: UZBEKISTAN
+    IsFound: 0
+  - Text: VANUATU
+    IsFound: 0
+  - Text: VATICAN
+    IsFound: 0
+  - Text: VENEZUELA
+    IsFound: 0
+  - Text: VIETNAM
+    IsFound: 0
+  - Text: YEMEN
+    IsFound: 0
+  - Text: ZAMBIA
+    IsFound: 0
+  - Text: ZIMBABWE
+    IsFound: 0

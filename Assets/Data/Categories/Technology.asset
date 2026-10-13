@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Technology
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Technology
+  Words:
+  - Text: ADAPTER
+    IsFound: 0
+  - Text: ALGORITHM
+    IsFound: 0
+  - Text: ANDROID
+    IsFound: 0
+  - Text: ANTENNA
+    IsFound: 0
+  - Text: APPLICATION
+    IsFound: 0
+  - Text: ARCHIVE
+    IsFound: 0
+  - Text: ARTIFICIALINTELLIGENCE
+    IsFound: 0
+  - Text: AUDIO
+    IsFound: 0
+  - Text: AUTOMATION
+    IsFound: 0
+  - Text: BACKUP
+    IsFound: 0
+  - Text: BANDWIDTH
+    IsFound: 0
+  - Text: BATTERY
+    IsFound: 0
+  - Text: BINARY
+    IsFound: 0
+  - Text: BIOMETRIC
+    IsFound: 0
+  - Text: BIT
+    IsFound: 0
+  - Text: BLUETOOTH
+    IsFound: 0
+  - Text: BOOT
+    IsFound: 0
+  - Text: BROWSER
+    IsFound: 0
+  - Text: BUFFER
+    IsFound: 0
+  - Text: BUG
+    IsFound: 0
+  - Text: BYTE
+    IsFound: 0
+  - Text: CACHE
+    IsFound: 0
+  - Text: CABLE
+    IsFound: 0
+  - Text: CAMERA
+    IsFound: 0
+  - Text: CHARGER
+    IsFound: 0
+  - Text: CHIP
+    IsFound: 0
+  - Text: CIPHER
+    IsFound: 0
+  - Text: CLOUD
+    IsFound: 0
+  - Text: CODE
+    IsFound: 0
+  - Text: CODING
+    IsFound: 0
+  - Text: COMPILER
+    IsFound: 0
+  - Text: COMPUTER
+    IsFound: 0
+  - Text: COOKIE
+    IsFound: 0
+  - Text: CPU
+    IsFound: 0
+  - Text: CURSOR
+    IsFound: 0
+  - Text: CYBERSECURITY
+    IsFound: 0
+  - Text: DATABASE
+    IsFound: 0
+  - Text: DATA
+    IsFound: 0
+  - Text: DEBUG
+    IsFound: 0
+  - Text: DESKTOP
+    IsFound: 0
+  - Text: DEVICE
+    IsFound: 0
+  - Text: DIGITAL
+    IsFound: 0
+  - Text: DIRECTORY
+    IsFound: 0
+  - Text: DISK
+    IsFound: 0
+  - Text: DISPLAY
+    IsFound: 0
+  - Text: DNS
+    IsFound: 0
+  - Text: DOCUMENT
+    IsFound: 0
+  - Text: DOWNLOAD
+    IsFound: 0
+  - Text: DRIVER
+    IsFound: 0
+  - Text: EMAIL
+    IsFound: 0
+  - Text: ENCRYPTION
+    IsFound: 0
+  - Text: ETHERNET
+    IsFound: 0
+  - Text: FIBER
+    IsFound: 0
+  - Text: FILE
+    IsFound: 0
+  - Text: FIREWALL
+    IsFound: 0
+  - Text: FIRMWARE
+    IsFound: 0
+  - Text: FLASHDRIVE
+    IsFound: 0
+  - Text: FOLDER
+    IsFound: 0
+  - Text: FRAMEWORK
+    IsFound: 0
+  - Text: GATEWAY
+    IsFound: 0
+  - Text: GIGABYTE
+    IsFound: 0
+  - Text: GPU
+    IsFound: 0
+  - Text: GRAPHICS
+    IsFound: 0
+  - Text: HACKER
+    IsFound: 0
+  - Text: HARDDISK
+    IsFound: 0
+  - Text: HARDWARE
+    IsFound: 0
+  - Text: HEADPHONES
+    IsFound: 0
+  - Text: HOST
+    IsFound: 0
+  - Text: HTML
+    IsFound: 0
+  - Text: HTTP
+    IsFound: 0
+  - Text: ICON
+    IsFound: 0
+  - Text: INPUT
+    IsFound: 0
+  - Text: INTERNET
+    IsFound: 0
+  - Text: IPADDRESS
+    IsFound: 0
+  - Text: JAVA
+    IsFound: 0
+  - Text: JAVASCRIPT
+    IsFound: 0
+  - Text: JOYSTICK
+    IsFound: 0
+  - Text: JSON
+    IsFound: 0
+  - Text: KERNEL
+    IsFound: 0
+  - Text: KEYBOARD
+    IsFound: 0
+  - Text: LAPTOP
+    IsFound: 0
+  - Text: LASER
+    IsFound: 0
+  - Text: LIBRARY
+    IsFound: 0
+  - Text: LINUX
+    IsFound: 0
+  - Text: LOGIN
+    IsFound: 0
+  - Text: MACHINELEARNING
+    IsFound: 0
+  - Text: MACRO
+    IsFound: 0
+  - Text: MEMORY
+    IsFound: 0
+  - Text: MICROPHONE
+    IsFound: 0
+  - Text: MODEM
+    IsFound: 0
+  - Text: MONITOR
+    IsFound: 0
+  - Text: MOTHERBOARD
+    IsFound: 0
+  - Text: MOUSE
+    IsFound: 0
+  - Text: NETWORK
+    IsFound: 0
+  - Text: NODE
+    IsFound: 0
+  - Text: NOTEBOOK
+    IsFound: 0
+  - Text: OPERATINGSYSTEM
+    IsFound: 0
+  - Text: OUTPUT
+    IsFound: 0
+  - Text: PACKET
+    IsFound: 0
+  - Text: PASSWORD
+    IsFound: 0
+  - Text: PATCH
+    IsFound: 0
+  - Text: PDF
+    IsFound: 0
+  - Text: PIXEL
+    IsFound: 0
+  - Text: PLUGIN
+    IsFound: 0
+  - Text: PORT
+    IsFound: 0
+  - Text: PRINTER
+    IsFound: 0
+  - Text: PROCESSOR
+    IsFound: 0
+  - Text: PROGRAM
+    IsFound: 0
+  - Text: PROGRAMMER
+    IsFound: 0
+  - Text: PROTOCOL
+    IsFound: 0
+  - Text: PYTHON
+    IsFound: 0
+  - Text: QR
+    IsFound: 0
+  - Text: QUERY
+    IsFound: 0
+  - Text: RAM
+    IsFound: 0
+  - Text: REPOSITORY
+    IsFound: 0
+  - Text: ROBOT
+    IsFound: 0
+  - Text: ROUTER
+    IsFound: 0
+  - Text: RUNTIME
+    IsFound: 0
+  - Text: SCANNER
+    IsFound: 0
+  - Text: SCREEN
+    IsFound: 0
+  - Text: SCRIPT
+    IsFound: 0
+  - Text: SEARCHENGINE
+    IsFound: 0
+  - Text: SECURITY
+    IsFound: 0
+  - Text: SERVER
+    IsFound: 0
+  - Text: SMARTPHONE
+    IsFound: 0
+  - Text: SOCKET
+    IsFound: 0
+  - Text: SOFTWARE
+    IsFound: 0
+  - Text: SOURCECODE
+    IsFound: 0
+  - Text: SPEAKER
+    IsFound: 0
+  - Text: SPREADSHEET
+    IsFound: 0
+  - Text: SSD
+    IsFound: 0
+  - Text: STORAGE
+    IsFound: 0
+  - Text: SWITCH
+    IsFound: 0
+  - Text: TABLET
+    IsFound: 0
+  - Text: TERMINAL
+    IsFound: 0
+  - Text: THREAD
+    IsFound: 0
+  - Text: TOUCHSCREEN
+    IsFound: 0
+  - Text: UPLOAD
+    IsFound: 0
+  - Text: USB
+    IsFound: 0
+  - Text: USERNAME
+    IsFound: 0
+  - Text: VARIABLE
+    IsFound: 0
+  - Text: VERSIONCONTROL
+    IsFound: 0
+  - Text: VIRTUALREALITY
+    IsFound: 0
+  - Text: VIRUS
+    IsFound: 0
+  - Text: WEBCAM
+    IsFound: 0
+  - Text: WEBSITE
+    IsFound: 0
+  - Text: WIDGET
+    IsFound: 0
+  - Text: WINDOW
+    IsFound: 0
+  - Text: WIRELESS
+    IsFound: 0
+  - Text: XML
+    IsFound: 0
+  - Text: ZIP
+    IsFound: 0

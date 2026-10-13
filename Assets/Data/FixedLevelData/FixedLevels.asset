@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb30265f57463964b98f1c481ae14b29, type: 3}
+  m_Name: FixedLevels
+  m_EditorClassIdentifier: Assembly-CSharp::FixedLevelsSO
+  Levels:
+  - LevelNumber: 1
+    RequiredWords:
+    - Text: DOOR
+      IsFound: 0
+    - Text: BUS
+      IsFound: 0
+  - LevelNumber: 3
+    RequiredWords:
+    - Text: RING
+      IsFound: 0
+  - LevelNumber: 4
+    RequiredWords:
+    - Text: SCENE
+      IsFound: 0

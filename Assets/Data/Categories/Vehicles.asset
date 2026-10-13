@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Vehicles
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Vehicles
+  Words:
+  - Text: AIRPLANE
+    IsFound: 0
+  - Text: AIRCRAFT
+    IsFound: 0
+  - Text: AMBULANCE
+    IsFound: 0
+  - Text: AMPHIBIAN
+    IsFound: 0
+  - Text: ATV
+    IsFound: 0
+  - Text: BALLOON
+    IsFound: 0
+  - Text: BARGE
+    IsFound: 0
+  - Text: BICYCLE
+    IsFound: 0
+  - Text: BIKE
+    IsFound: 0
+  - Text: BLIMP
+    IsFound: 0
+  - Text: BOAT
+    IsFound: 0
+  - Text: BUGGY
+    IsFound: 0
+  - Text: BULLDOZER
+    IsFound: 0
+  - Text: BUS
+    IsFound: 0
+  - Text: CAB
+    IsFound: 0
+  - Text: CABLECAR
+    IsFound: 0
+  - Text: CAMEL
+    IsFound: 0
+  - Text: CANOE
+    IsFound: 0
+  - Text: CAR
+    IsFound: 0
+  - Text: CARAVAN
+    IsFound: 0
+  - Text: CARGO
+    IsFound: 0
+  - Text: CARRIAGE
+    IsFound: 0
+  - Text: CART
+    IsFound: 0
+  - Text: CRANE
+    IsFound: 0
+  - Text: CRUISER
+    IsFound: 0
+  - Text: DIRIGIBLE
+    IsFound: 0
+  - Text: DIRTBIKE
+    IsFound: 0
+  - Text: DRONE
+    IsFound: 0
+  - Text: ESCALATOR
+    IsFound: 0
+  - Text: EXCAVATOR
+    IsFound: 0
+  - Text: FERRY
+    IsFound: 0
+  - Text: FIGHTERJET
+    IsFound: 0
+  - Text: FIREENGINE
+    IsFound: 0
+  - Text: FORKLIFT
+    IsFound: 0
+  - Text: FREIGHTER
+    IsFound: 0
+  - Text: GLIDER
+    IsFound: 0
+  - Text: GOLFCART
+    IsFound: 0
+  - Text: GONDOLA
+    IsFound: 0
+  - Text: HATCHBACK
+    IsFound: 0
+  - Text: HELICOPTER
+    IsFound: 0
+  - Text: HOVERBOARD
+    IsFound: 0
+  - Text: HOVERCRAFT
+    IsFound: 0
+  - Text: JET
+    IsFound: 0
+  - Text: JETSKI
+    IsFound: 0
+  - Text: KAYAK
+    IsFound: 0
+  - Text: LIMOUSINE
+    IsFound: 0
+  - Text: LOCOMOTIVE
+    IsFound: 0
+  - Text: LORRY
+    IsFound: 0
+  - Text: MINIBUS
+    IsFound: 0
+  - Text: MINIVAN
+    IsFound: 0
+  - Text: MONORAIL
+    IsFound: 0
+  - Text: MOPED
+    IsFound: 0
+  - Text: MOTORBIKE
+    IsFound: 0
+  - Text: MOTORCYCLE
+    IsFound: 0
+  - Text: PADDLEBOAT
+    IsFound: 0
+  - Text: PARACHUTE
+    IsFound: 0
+  - Text: PICKUP
+    IsFound: 0
+  - Text: PLANE
+    IsFound: 0
+  - Text: RAFT
+    IsFound: 0
+  - Text: RICKSHAW
+    IsFound: 0
+  - Text: ROADROLLER
+    IsFound: 0
+  - Text: ROCKET
+    IsFound: 0
+  - Text: ROLLERBLADES
+    IsFound: 0
+  - Text: ROLLERCOASTER
+    IsFound: 0
+  - Text: ROWBOAT
+    IsFound: 0
+  - Text: SAILBOAT
+    IsFound: 0
+  - Text: SAILSHIP
+    IsFound: 0
+  - Text: SCOOTER
+    IsFound: 0
+  - Text: SEAPLANE
+    IsFound: 0
+  - Text: SEDAN
+    IsFound: 0
+  - Text: SEGWAY
+    IsFound: 0
+  - Text: SHIP
+    IsFound: 0
+  - Text: SKATEBOARD
+    IsFound: 0
+  - Text: SKATES
+    IsFound: 0
+  - Text: SLED
+    IsFound: 0
+  - Text: SNOWMOBILE
+    IsFound: 0
+  - Text: SPEEDBOAT
+    IsFound: 0
+  - Text: SPACESHIP
+    IsFound: 0
+  - Text: SPORTSCAR
+    IsFound: 0
+  - Text: SUBMARINE
+    IsFound: 0
+  - Text: SUV
+    IsFound: 0
+  - Text: TANK
+    IsFound: 0
+  - Text: TAXI
+    IsFound: 0
+  - Text: TRACTOR
+    IsFound: 0
+  - Text: TRAILER
+    IsFound: 0
+  - Text: TRAIN
+    IsFound: 0
+  - Text: TRAM
+    IsFound: 0
+  - Text: TRICYCLE
+    IsFound: 0
+  - Text: TRUCK
+    IsFound: 0
+  - Text: TUGBOAT
+    IsFound: 0
+  - Text: UNICYCLE
+    IsFound: 0
+  - Text: VAN
+    IsFound: 0
+  - Text: WAGON
+    IsFound: 0
+  - Text: WHEELBARROW
+    IsFound: 0
+  - Text: YACHT
+    IsFound: 0
+  - Text: ZEPPELIN
+    IsFound: 0

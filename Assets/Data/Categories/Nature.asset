@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Nature
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Nature
+  Words:
+  - Text: AIR
+    IsFound: 0
+  - Text: ASH
+    IsFound: 0
+  - Text: BARK
+    IsFound: 0
+  - Text: BAY
+    IsFound: 0
+  - Text: BEECH
+    IsFound: 0
+  - Text: BIRD
+    IsFound: 0
+  - Text: BLOOM
+    IsFound: 0
+  - Text: BREEZE
+    IsFound: 0
+  - Text: BROOK
+    IsFound: 0
+  - Text: BUSH
+    IsFound: 0
+  - Text: CANYON
+    IsFound: 0
+  - Text: CAVE
+    IsFound: 0
+  - Text: CLIFF
+    IsFound: 0
+  - Text: CLOUD
+    IsFound: 0
+  - Text: COAST
+    IsFound: 0
+  - Text: CORAL
+    IsFound: 0
+  - Text: CREEK
+    IsFound: 0
+  - Text: CRATER
+    IsFound: 0
+  - Text: CREEPER
+    IsFound: 0
+  - Text: DAWN
+    IsFound: 0
+  - Text: DESERT
+    IsFound: 0
+  - Text: DEW
+    IsFound: 0
+  - Text: DIRT
+    IsFound: 0
+  - Text: DUNE
+    IsFound: 0
+  - Text: EARTH
+    IsFound: 0
+  - Text: ECLIPSE
+    IsFound: 0
+  - Text: FIELD
+    IsFound: 0
+  - Text: FIRE
+    IsFound: 0
+  - Text: FLOWER
+    IsFound: 0
+  - Text: FOG
+    IsFound: 0
+  - Text: FOREST
+    IsFound: 0
+  - Text: GLACIER
+    IsFound: 0
+  - Text: GRASS
+    IsFound: 0
+  - Text: GROVE
+    IsFound: 0
+  - Text: HAIL
+    IsFound: 0
+  - Text: HARBOR
+    IsFound: 0
+  - Text: HILL
+    IsFound: 0
+  - Text: HORIZON
+    IsFound: 0
+  - Text: HURRICANE
+    IsFound: 0
+  - Text: ICE
+    IsFound: 0
+  - Text: ISLAND
+    IsFound: 0
+  - Text: IVY
+    IsFound: 0
+  - Text: JUNGLE
+    IsFound: 0
+  - Text: LAKE
+    IsFound: 0
+  - Text: LAGOON
+    IsFound: 0
+  - Text: LAND
+    IsFound: 0
+  - Text: LAVA
+    IsFound: 0
+  - Text: LEAF
+    IsFound: 0
+  - Text: LIGHTNING
+    IsFound: 0
+  - Text: MARSH
+    IsFound: 0
+  - Text: MEADOW
+    IsFound: 0
+  - Text: MOSS
+    IsFound: 0
+  - Text: MOUNTAIN
+    IsFound: 0
+  - Text: MUD
+    IsFound: 0
+  - Text: NEST
+    IsFound: 0
+  - Text: OASIS
+    IsFound: 0
+  - Text: OCEAN
+    IsFound: 0
+  - Text: PEAK
+    IsFound: 0
+  - Text: PINE
+    IsFound: 0
+  - Text: PLAIN
+    IsFound: 0
+  - Text: PLANT
+    IsFound: 0
+  - Text: POND
+    IsFound: 0
+  - Text: PRAIRIE
+    IsFound: 0
+  - Text: RAIN
+    IsFound: 0
+  - Text: RAINBOW
+    IsFound: 0
+  - Text: RAPIDS
+    IsFound: 0
+  - Text: RIVER
+    IsFound: 0
+  - Text: ROCK
+    IsFound: 0
+  - Text: SAND
+    IsFound: 0
+  - Text: SEA
+    IsFound: 0
+  - Text: SEED
+    IsFound: 0
+  - Text: SHADOW
+    IsFound: 0
+  - Text: SHORE
+    IsFound: 0
+  - Text: SKY
+    IsFound: 0
+  - Text: SNOW
+    IsFound: 0
+  - Text: SOIL
+    IsFound: 0
+  - Text: SPRING
+    IsFound: 0
+  - Text: STAR
+    IsFound: 0
+  - Text: STONE
+    IsFound: 0
+  - Text: STREAM
+    IsFound: 0
+  - Text: SUN
+    IsFound: 0
+  - Text: SUNLIGHT
+    IsFound: 0
+  - Text: SUNSET
+    IsFound: 0
+  - Text: SUNRISE
+    IsFound: 0
+  - Text: SWAMP
+    IsFound: 0
+  - Text: THORN
+    IsFound: 0
+  - Text: THUNDER
+    IsFound: 0
+  - Text: TIDE
+    IsFound: 0
+  - Text: TREE
+    IsFound: 0
+  - Text: TROPICS
+    IsFound: 0
+  - Text: TSUNAMI
+    IsFound: 0
+  - Text: VALLEY
+    IsFound: 0
+  - Text: VINE
+    IsFound: 0
+  - Text: VOLCANO
+    IsFound: 0
+  - Text: WATER
+    IsFound: 0
+  - Text: WATERFALL
+    IsFound: 0
+  - Text: WAVE
+    IsFound: 0
+  - Text: WETLAND
+    IsFound: 0
+  - Text: WILDERNESS
+    IsFound: 0
+  - Text: WIND
+    IsFound: 0
+  - Text: WOOD
+    IsFound: 0
+  - Text: YEW
+    IsFound: 0

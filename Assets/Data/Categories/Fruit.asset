@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Fruit
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Fruit
+  Words:
+  - Text: APPLE
+    IsFound: 0
+  - Text: APRICOT
+    IsFound: 0
+  - Text: AVOCADO
+    IsFound: 0
+  - Text: ACAI
+    IsFound: 0
+  - Text: ACKEE
+    IsFound: 0
+  - Text: BANANA
+    IsFound: 0
+  - Text: BILBERRY
+    IsFound: 0
+  - Text: BLACKBERRY
+    IsFound: 0
+  - Text: BLUEBERRY
+    IsFound: 0
+  - Text: BOYSENBERRY
+    IsFound: 0
+  - Text: CHERRY
+    IsFound: 0
+  - Text: CLEMENTINE
+    IsFound: 0
+  - Text: COCONUT
+    IsFound: 0
+  - Text: CRANBERRY
+    IsFound: 0
+  - Text: CURRANT
+    IsFound: 0
+  - Text: DATE
+    IsFound: 0
+  - Text: DAMSON
+    IsFound: 0
+  - Text: DRAGONFRUIT
+    IsFound: 0
+  - Text: DURIAN
+    IsFound: 0
+  - Text: ELDERBERRY
+    IsFound: 0
+  - Text: FIG
+    IsFound: 0
+  - Text: FEIJOA
+    IsFound: 0
+  - Text: GOOSEBERRY
+    IsFound: 0
+  - Text: GRAPE
+    IsFound: 0
+  - Text: GRAPEFRUIT
+    IsFound: 0
+  - Text: GUAVA
+    IsFound: 0
+  - Text: HONEYDEW
+    IsFound: 0
+  - Text: HUCKLEBERRY
+    IsFound: 0
+  - Text: JACKFRUIT
+    IsFound: 0
+  - Text: JAMBUL
+    IsFound: 0
+  - Text: JUJUBE
+    IsFound: 0
+  - Text: KIWI
+    IsFound: 0
+  - Text: KUMQUAT
+    IsFound: 0
+  - Text: LEMON
+    IsFound: 0
+  - Text: LIME
+    IsFound: 0
+  - Text: LICHEE
+    IsFound: 0
+  - Text: LONGAN
+    IsFound: 0
+  - Text: LOQUAT
+    IsFound: 0
+  - Text: LYCHEE
+    IsFound: 0
+  - Text: MANDARIN
+    IsFound: 0
+  - Text: MANGO
+    IsFound: 0
+  - Text: MANGOSTEEN
+    IsFound: 0
+  - Text: MELON
+    IsFound: 0
+  - Text: MIRACLEFRUIT
+    IsFound: 0
+  - Text: MULBERRY
+    IsFound: 0
+  - Text: NECTARINE
+    IsFound: 0
+  - Text: OLIVE
+    IsFound: 0
+  - Text: ORANGE
+    IsFound: 0
+  - Text: PAPAYA
+    IsFound: 0
+  - Text: PASSIONFRUIT
+    IsFound: 0
+  - Text: PEACH
+    IsFound: 0
+  - Text: PEAR
+    IsFound: 0
+  - Text: PERSIMMON
+    IsFound: 0
+  - Text: PINEAPPLE
+    IsFound: 0
+  - Text: PLANTAIN
+    IsFound: 0
+  - Text: PLUM
+    IsFound: 0
+  - Text: POMEGRANATE
+    IsFound: 0
+  - Text: POMELO
+    IsFound: 0
+  - Text: QUINCE
+    IsFound: 0
+  - Text: RAMBUTAN
+    IsFound: 0
+  - Text: RASPBERRY
+    IsFound: 0
+  - Text: REDBANANA
+    IsFound: 0
+  - Text: SALAK
+    IsFound: 0
+  - Text: SATSUMA
+    IsFound: 0
+  - Text: SOURSOP
+    IsFound: 0
+  - Text: STARFRUIT
+    IsFound: 0
+  - Text: STRAWBERRY
+    IsFound: 0
+  - Text: TAMARILLO
+    IsFound: 0
+  - Text: TAMARIND
+    IsFound: 0
+  - Text: TANGERINE
+    IsFound: 0
+  - Text: UGLI
+    IsFound: 0
+  - Text: WATERMELON
+    IsFound: 0
+  - Text: WHITECURRANT
+    IsFound: 0
+  - Text: YUZU
+    IsFound: 0

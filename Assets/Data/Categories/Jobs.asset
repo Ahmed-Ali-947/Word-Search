@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Jobs
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Jobs
+  Words:
+  - Text: ACTOR
+    IsFound: 0
+  - Text: ACTRESS
+    IsFound: 0
+  - Text: ACCOUNTANT
+    IsFound: 0
+  - Text: ADMINISTRATOR
+    IsFound: 0
+  - Text: AGENT
+    IsFound: 0
+  - Text: ANALYST
+    IsFound: 0
+  - Text: ANIMATOR
+    IsFound: 0
+  - Text: ARCHITECT
+    IsFound: 0
+  - Text: ARTIST
+    IsFound: 0
+  - Text: ASSISTANT
+    IsFound: 0
+  - Text: ASTRONAUT
+    IsFound: 0
+  - Text: ATHLETE
+    IsFound: 0
+  - Text: AUTHOR
+    IsFound: 0
+  - Text: BAKER
+    IsFound: 0
+  - Text: BANKER
+    IsFound: 0
+  - Text: BARBER
+    IsFound: 0
+  - Text: BARTENDER
+    IsFound: 0
+  - Text: BIOLOGIST
+    IsFound: 0
+  - Text: BLACKSMITH
+    IsFound: 0
+  - Text: BLOGGER
+    IsFound: 0
+  - Text: BOTANIST
+    IsFound: 0
+  - Text: BRICKLAYER
+    IsFound: 0
+  - Text: BROKER
+    IsFound: 0
+  - Text: BUILDER
+    IsFound: 0
+  - Text: BUTCHER
+    IsFound: 0
+  - Text: CAPTAIN
+    IsFound: 0
+  - Text: CARPENTER
+    IsFound: 0
+  - Text: CASHIER
+    IsFound: 0
+  - Text: CHEF
+    IsFound: 0
+  - Text: CHEMIST
+    IsFound: 0
+  - Text: COACH
+    IsFound: 0
+  - Text: CODER
+    IsFound: 0
+  - Text: COMEDIAN
+    IsFound: 0
+  - Text: COMPOSER
+    IsFound: 0
+  - Text: CONDUCTOR
+    IsFound: 0
+  - Text: CONSULTANT
+    IsFound: 0
+  - Text: COOK
+    IsFound: 0
+  - Text: COURIER
+    IsFound: 0
+  - Text: DANCER
+    IsFound: 0
+  - Text: DENTIST
+    IsFound: 0
+  - Text: DESIGNER
+    IsFound: 0
+  - Text: DETECTIVE
+    IsFound: 0
+  - Text: DEVELOPER
+    IsFound: 0
+  - Text: DIETITIAN
+    IsFound: 0
+  - Text: DIRECTOR
+    IsFound: 0
+  - Text: DOCTOR
+    IsFound: 0
+  - Text: DRIVER
+    IsFound: 0
+  - Text: ECONOMIST
+    IsFound: 0
+  - Text: EDITOR
+    IsFound: 0
+  - Text: ELECTRICIAN
+    IsFound: 0
+  - Text: ENGINEER
+    IsFound: 0
+  - Text: ENTREPRENEUR
+    IsFound: 0
+  - Text: FARMER
+    IsFound: 0
+  - Text: FASHIONDESIGNER
+    IsFound: 0
+  - Text: FIREFIGHTER
+    IsFound: 0
+  - Text: FISHERMAN
+    IsFound: 0
+  - Text: FLORIST
+    IsFound: 0
+  - Text: FORESTER
+    IsFound: 0
+  - Text: GAMEDEVELOPER
+    IsFound: 0
+  - Text: GARDENER
+    IsFound: 0
+  - Text: GEOLOGIST
+    IsFound: 0
+  - Text: GOLDSMITH
+    IsFound: 0
+  - Text: GRAPHICDESIGNER
+    IsFound: 0
+  - Text: GUARD
+    IsFound: 0
+  - Text: GUIDE
+    IsFound: 0
+  - Text: HAIRDRESSER
+    IsFound: 0
+  - Text: ILLUSIONIST
+    IsFound: 0
+  - Text: ILLUSTRATOR
+    IsFound: 0
+  - Text: INSPECTOR
+    IsFound: 0
+  - Text: INSTRUCTOR
+    IsFound: 0
+  - Text: INTERPRETER
+    IsFound: 0
+  - Text: JANITOR
+    IsFound: 0
+  - Text: JEWELER
+    IsFound: 0
+  - Text: JOURNALIST
+    IsFound: 0
+  - Text: JUDGE
+    IsFound: 0
+  - Text: LABTECHNICIAN
+    IsFound: 0
+  - Text: LAWYER
+    IsFound: 0
+  - Text: LECTURER
+    IsFound: 0
+  - Text: LIBRARIAN
+    IsFound: 0
+  - Text: LIFEGUARD
+    IsFound: 0
+  - Text: LOCKSMITH
+    IsFound: 0
+  - Text: MAGICIAN
+    IsFound: 0
+  - Text: MANAGER
+    IsFound: 0
+  - Text: MARKETER
+    IsFound: 0
+  - Text: MASON
+    IsFound: 0
+  - Text: MATHEMATICIAN
+    IsFound: 0
+  - Text: MECHANIC
+    IsFound: 0
+  - Text: METEOROLOGIST
+    IsFound: 0
+  - Text: MINER
+    IsFound: 0
+  - Text: MODEL
+    IsFound: 0
+  - Text: MUSICIAN
+    IsFound: 0
+  - Text: NAVIGATOR
+    IsFound: 0
+  - Text: NURSE
+    IsFound: 0
+  - Text: NUTRITIONIST
+    IsFound: 0
+  - Text: OFFICER
+    IsFound: 0
+  - Text: OPERATOR
+    IsFound: 0
+  - Text: OPTICIAN
+    IsFound: 0
+  - Text: PAINTER
+    IsFound: 0
+  - Text: PARAMEDIC
+    IsFound: 0
+  - Text: PHARMACIST
+    IsFound: 0
+  - Text: PHOTOGRAPHER
+    IsFound: 0
+  - Text: PHYSICIAN
+    IsFound: 0
+  - Text: PHYSICIST
+    IsFound: 0
+  - Text: PILOT
+    IsFound: 0
+  - Text: PLUMBER
+    IsFound: 0
+  - Text: POLICEOFFICER
+    IsFound: 0
+  - Text: POLITICIAN
+    IsFound: 0
+  - Text: POSTMAN
+    IsFound: 0
+  - Text: POTTER
+    IsFound: 0
+  - Text: PRIEST
+    IsFound: 0
+  - Text: PRINCIPAL
+    IsFound: 0
+  - Text: PRODUCER
+    IsFound: 0
+  - Text: PROFESSOR
+    IsFound: 0
+  - Text: PROGRAMMER
+    IsFound: 0
+  - Text: PSYCHOLOGIST
+    IsFound: 0
+  - Text: PUBLISHER
+    IsFound: 0
+  - Text: RECEPTIONIST
+    IsFound: 0
+  - Text: REPORTER
+    IsFound: 0
+  - Text: RESEARCHER
+    IsFound: 0
+  - Text: SAILOR
+    IsFound: 0
+  - Text: SALESMAN
+    IsFound: 0
+  - Text: SCIENTIST
+    IsFound: 0
+  - Text: SCULPTOR
+    IsFound: 0
+  - Text: SECRETARY
+    IsFound: 0
+  - Text: SECURITYGUARD
+    IsFound: 0
+  - Text: SINGER
+    IsFound: 0
+  - Text: SOLDIER
+    IsFound: 0
+  - Text: STATISTICIAN
+    IsFound: 0
+  - Text: STUDENT
+    IsFound: 0
+  - Text: SURGEON
+    IsFound: 0
+  - Text: SURVEYOR
+    IsFound: 0
+  - Text: TAILOR
+    IsFound: 0
+  - Text: TAXIDRIVER
+    IsFound: 0
+  - Text: TEACHER
+    IsFound: 0
+  - Text: TECHNICIAN
+    IsFound: 0
+  - Text: THERAPIST
+    IsFound: 0
+  - Text: TRANSLATOR
+    IsFound: 0
+  - Text: TRAVELAGENT
+    IsFound: 0
+  - Text: VETERINARIAN
+    IsFound: 0
+  - Text: WAITER
+    IsFound: 0
+  - Text: WAITRESS
+    IsFound: 0
+  - Text: WEBDESIGNER
+    IsFound: 0
+  - Text: WELDER
+    IsFound: 0
+  - Text: WRITER
+    IsFound: 0
+  - Text: ZOOLOGIST
+    IsFound: 0

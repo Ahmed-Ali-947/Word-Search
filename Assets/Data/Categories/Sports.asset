@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Sports
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Sports
+  Words:
+  - Text: ARCHERY
+    IsFound: 0
+  - Text: ATHLETICS
+    IsFound: 0
+  - Text: BADMINTON
+    IsFound: 0
+  - Text: BASEBALL
+    IsFound: 0
+  - Text: BASKETBALL
+    IsFound: 0
+  - Text: BIATHLON
+    IsFound: 0
+  - Text: BILLIARDS
+    IsFound: 0
+  - Text: BOBSLEIGH
+    IsFound: 0
+  - Text: BODYBUILDING
+    IsFound: 0
+  - Text: BOWLING
+    IsFound: 0
+  - Text: BOXING
+    IsFound: 0
+  - Text: CANOEING
+    IsFound: 0
+  - Text: CLIMBING
+    IsFound: 0
+  - Text: CRICKET
+    IsFound: 0
+  - Text: CROSSFIT
+    IsFound: 0
+  - Text: CURLING
+    IsFound: 0
+  - Text: CYCLING
+    IsFound: 0
+  - Text: DARTS
+    IsFound: 0
+  - Text: DIVING
+    IsFound: 0
+  - Text: ESPORTS
+    IsFound: 0
+  - Text: FENCING
+    IsFound: 0
+  - Text: FIGURESKATING
+    IsFound: 0
+  - Text: FISHING
+    IsFound: 0
+  - Text: FOOTBALL
+    IsFound: 0
+  - Text: FORMULAONE
+    IsFound: 0
+  - Text: GOLF
+    IsFound: 0
+  - Text: GYMNASTICS
+    IsFound: 0
+  - Text: HANDBALL
+    IsFound: 0
+  - Text: HIKING
+    IsFound: 0
+  - Text: HOCKEY
+    IsFound: 0
+  - Text: HORSERACING
+    IsFound: 0
+  - Text: ICEHOCKEY
+    IsFound: 0
+  - Text: JUDO
+    IsFound: 0
+  - Text: KARATE
+    IsFound: 0
+  - Text: KAYAKING
+    IsFound: 0
+  - Text: KICKBOXING
+    IsFound: 0
+  - Text: LACROSSE
+    IsFound: 0
+  - Text: LUGE
+    IsFound: 0
+  - Text: MARATHON
+    IsFound: 0
+  - Text: MOTOCROSS
+    IsFound: 0
+  - Text: NETBALL
+    IsFound: 0
+  - Text: ORIENTEERING
+    IsFound: 0
+  - Text: PADEL
+    IsFound: 0
+  - Text: PAINTBALL
+    IsFound: 0
+  - Text: PARAGLIDING
+    IsFound: 0
+  - Text: PARKOUR
+    IsFound: 0
+  - Text: POLO
+    IsFound: 0
+  - Text: POWERLIFTING
+    IsFound: 0
+  - Text: RACQUETBALL
+    IsFound: 0
+  - Text: RAFTING
+    IsFound: 0
+  - Text: ROWING
+    IsFound: 0
+  - Text: RUGBY
+    IsFound: 0
+  - Text: SAILING
+    IsFound: 0
+  - Text: SHOOTING
+    IsFound: 0
+  - Text: SKATEBOARDING
+    IsFound: 0
+  - Text: SKATING
+    IsFound: 0
+  - Text: SKIING
+    IsFound: 0
+  - Text: SNOOKER
+    IsFound: 0
+  - Text: SNORKELING
+    IsFound: 0
+  - Text: SNOWBOARDING
+    IsFound: 0
+  - Text: SOCCER
+    IsFound: 0
+  - Text: SOFTBALL
+    IsFound: 0
+  - Text: SQUASH
+    IsFound: 0
+  - Text: SURFING
+    IsFound: 0
+  - Text: SWIMMING
+    IsFound: 0
+  - Text: TABLETENNIS
+    IsFound: 0
+  - Text: TAEKWONDO
+    IsFound: 0
+  - Text: TENNIS
+    IsFound: 0
+  - Text: TRAMPOLINE
+    IsFound: 0
+  - Text: TRIATHLON
+    IsFound: 0
+  - Text: VOLLEYBALL
+    IsFound: 0
+  - Text: WAKEBOARDING
+    IsFound: 0
+  - Text: WATERPOLO
+    IsFound: 0
+  - Text: WEIGHTLIFTING
+    IsFound: 0
+  - Text: WINDSURFING
+    IsFound: 0
+  - Text: WRESTLING
+    IsFound: 0
+  - Text: YOGA
+    IsFound: 0

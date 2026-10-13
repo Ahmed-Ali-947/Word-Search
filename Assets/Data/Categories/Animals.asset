@@ -1,0 +1,304 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Animals
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Ainmals
+  Words:
+  - Text: APE
+    IsFound: 0
+  - Text: ANT
+    IsFound: 0
+  - Text: BAT
+    IsFound: 0
+  - Text: BEE
+    IsFound: 0
+  - Text: BUG
+    IsFound: 0
+  - Text: CAT
+    IsFound: 0
+  - Text: COD
+    IsFound: 0
+  - Text: COW
+    IsFound: 0
+  - Text: CUB
+    IsFound: 0
+  - Text: DOE
+    IsFound: 0
+  - Text: DOG
+    IsFound: 0
+  - Text: EEL
+    IsFound: 0
+  - Text: ELK
+    IsFound: 0
+  - Text: EMU
+    IsFound: 0
+  - Text: FOX
+    IsFound: 0
+  - Text: GNU
+    IsFound: 0
+  - Text: HEN
+    IsFound: 0
+  - Text: HOG
+    IsFound: 0
+  - Text: OWL
+    IsFound: 0
+  - Text: OX
+    IsFound: 0
+  - Text: PIG
+    IsFound: 0
+  - Text: PUG
+    IsFound: 0
+  - Text: RAM
+    IsFound: 0
+  - Text: RAT
+    IsFound: 0
+  - Text: YAK
+    IsFound: 0
+  - Text: BEAR
+    IsFound: 0
+  - Text: BIRD
+    IsFound: 0
+  - Text: BOAR
+    IsFound: 0
+  - Text: BULL
+    IsFound: 0
+  - Text: CALF
+    IsFound: 0
+  - Text: CLAM
+    IsFound: 0
+  - Text: COLT
+    IsFound: 0
+  - Text: CRAB
+    IsFound: 0
+  - Text: CROW
+    IsFound: 0
+  - Text: DEER
+    IsFound: 0
+  - Text: DOVE
+    IsFound: 0
+  - Text: DUCK
+    IsFound: 0
+  - Text: FLEA
+    IsFound: 0
+  - Text: FOAL
+    IsFound: 0
+  - Text: FROG
+    IsFound: 0
+  - Text: GOAT
+    IsFound: 0
+  - Text: GOOSE
+    IsFound: 0
+  - Text: HARE
+    IsFound: 0
+  - Text: HAWK
+    IsFound: 0
+  - Text: IBEX
+    IsFound: 0
+  - Text: LAMB
+    IsFound: 0
+  - Text: LION
+    IsFound: 0
+  - Text: LYNX
+    IsFound: 0
+  - Text: MINK
+    IsFound: 0
+  - Text: MOLE
+    IsFound: 0
+  - Text: MOTH
+    IsFound: 0
+  - Text: MULE
+    IsFound: 0
+  - Text: NEWT
+    IsFound: 0
+  - Text: PIKE
+    IsFound: 0
+  - Text: SEAL
+    IsFound: 0
+  - Text: SHAD
+    IsFound: 0
+  - Text: SKUA
+    IsFound: 0
+  - Text: SWAN
+    IsFound: 0
+  - Text: TOAD
+    IsFound: 0
+  - Text: TUNA
+    IsFound: 0
+  - Text: WASP
+    IsFound: 0
+  - Text: WOLF
+    IsFound: 0
+  - Text: BADGER
+    IsFound: 0
+  - Text: BEAVER
+    IsFound: 0
+  - Text: BUFFALO
+    IsFound: 0
+  - Text: CAMEL
+    IsFound: 0
+  - Text: CANARY
+    IsFound: 0
+  - Text: COBRA
+    IsFound: 0
+  - Text: COUGAR
+    IsFound: 0
+  - Text: COYOTE
+    IsFound: 0
+  - Text: DONKEY
+    IsFound: 0
+  - Text: FERRET
+    IsFound: 0
+  - Text: GIBBON
+    IsFound: 0
+  - Text: HERON
+    IsFound: 0
+  - Text: HORNET
+    IsFound: 0
+  - Text: HYENA
+    IsFound: 0
+  - Text: IGUANA
+    IsFound: 0
+  - Text: JACKAL
+    IsFound: 0
+  - Text: JAGUAR
+    IsFound: 0
+  - Text: LIZARD
+    IsFound: 0
+  - Text: MAGPIE
+    IsFound: 0
+  - Text: MONKEY
+    IsFound: 0
+  - Text: MUSSEL
+    IsFound: 0
+  - Text: OCTOPUS
+    IsFound: 0
+  - Text: OSTRICH
+    IsFound: 0
+  - Text: OTTER
+    IsFound: 0
+  - Text: PANTHER
+    IsFound: 0
+  - Text: PARROT
+    IsFound: 0
+  - Text: PEACOCK
+    IsFound: 0
+  - Text: PENGUIN
+    IsFound: 0
+  - Text: PIGEON
+    IsFound: 0
+  - Text: PUFFIN
+    IsFound: 0
+  - Text: RABBIT
+    IsFound: 0
+  - Text: SALMON
+    IsFound: 0
+  - Text: SHRIMP
+    IsFound: 0
+  - Text: SPARROW
+    IsFound: 0
+  - Text: SPIDER
+    IsFound: 0
+  - Text: SQUID
+    IsFound: 0
+  - Text: TURKEY
+    IsFound: 0
+  - Text: TURTLE
+    IsFound: 0
+  - Text: WEASEL
+    IsFound: 0
+  - Text: WEEVIL
+    IsFound: 0
+  - Text: WHALE
+    IsFound: 0
+  - Text: ZEBRA
+    IsFound: 0
+  - Text: ALBATROSS
+    IsFound: 0
+  - Text: ALLIGATOR
+    IsFound: 0
+  - Text: ANTELOPE
+    IsFound: 0
+  - Text: BUTTERFLY
+    IsFound: 0
+  - Text: CATERPILLAR
+    IsFound: 0
+  - Text: CENTIPEDE
+    IsFound: 0
+  - Text: CHAMELEON
+    IsFound: 0
+  - Text: CHEETAH
+    IsFound: 0
+  - Text: CHICKEN
+    IsFound: 0
+  - Text: CHIMPANZEE
+    IsFound: 0
+  - Text: COCKATOO
+    IsFound: 0
+  - Text: CORMORANT
+    IsFound: 0
+  - Text: CROCODILE
+    IsFound: 0
+  - Text: DRAGONFLY
+    IsFound: 0
+  - Text: ELEPHANT
+    IsFound: 0
+  - Text: FLAMINGO
+    IsFound: 0
+  - Text: GAZELLE
+    IsFound: 0
+  - Text: GORILLA
+    IsFound: 0
+  - Text: GRASSHOPPER
+    IsFound: 0
+  - Text: HAMSTER
+    IsFound: 0
+  - Text: HEDGEHOG
+    IsFound: 0
+  - Text: JELLYFISH
+    IsFound: 0
+  - Text: KANGAROO
+    IsFound: 0
+  - Text: KINGFISHER
+    IsFound: 0
+  - Text: LADYBUG
+    IsFound: 0
+  - Text: LEOPARD
+    IsFound: 0
+  - Text: LOBSTER
+    IsFound: 0
+  - Text: MEERKAT
+    IsFound: 0
+  - Text: NIGHTINGALE
+    IsFound: 0
+  - Text: PORCUPINE
+    IsFound: 0
+  - Text: RACCOON
+    IsFound: 0
+  - Text: REINDEER
+    IsFound: 0
+  - Text: RHINOCEROS
+    IsFound: 0
+  - Text: SCORPION
+    IsFound: 0
+  - Text: SEAHORSE
+    IsFound: 0
+  - Text: SNAKE
+    IsFound: 0
+  - Text: SQUIRREL
+    IsFound: 0
+  - Text: STARFISH
+    IsFound: 0
+  - Text: WOODPECKER
+    IsFound: 0
+  - Text: WOODCHUCK
+    IsFound: 0

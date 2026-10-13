@@ -1,0 +1,364 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: HouseholdItems
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: HouseholdItems
+  Words:
+  - Text: ALARM
+    IsFound: 0
+  - Text: ALBUM
+    IsFound: 0
+  - Text: ANCHOR
+    IsFound: 0
+  - Text: APRON
+    IsFound: 0
+  - Text: ASHTRAY
+    IsFound: 0
+  - Text: BACKPACK
+    IsFound: 0
+  - Text: BAG
+    IsFound: 0
+  - Text: BASKET
+    IsFound: 0
+  - Text: BATHTUB
+    IsFound: 0
+  - Text: BATTERY
+    IsFound: 0
+  - Text: BEAKER
+    IsFound: 0
+  - Text: BEANBAG
+    IsFound: 0
+  - Text: BED
+    IsFound: 0
+  - Text: BEDFRAME
+    IsFound: 0
+  - Text: BEDSHEET
+    IsFound: 0
+  - Text: BENCH
+    IsFound: 0
+  - Text: BIN
+    IsFound: 0
+  - Text: BLANKET
+    IsFound: 0
+  - Text: BLENDER
+    IsFound: 0
+  - Text: BOOKCASE
+    IsFound: 0
+  - Text: BOOKSHELF
+    IsFound: 0
+  - Text: BOTTLE
+    IsFound: 0
+  - Text: BOWL
+    IsFound: 0
+  - Text: BOX
+    IsFound: 0
+  - Text: BROOM
+    IsFound: 0
+  - Text: BRUSH
+    IsFound: 0
+  - Text: BUCKET
+    IsFound: 0
+  - Text: CABINET
+    IsFound: 0
+  - Text: CALENDAR
+    IsFound: 0
+  - Text: CANDLE
+    IsFound: 0
+  - Text: CARPET
+    IsFound: 0
+  - Text: CHAIR
+    IsFound: 0
+  - Text: CHALK
+    IsFound: 0
+  - Text: CHARGER
+    IsFound: 0
+  - Text: CLOCK
+    IsFound: 0
+  - Text: CLOTH
+    IsFound: 0
+  - Text: COASTER
+    IsFound: 0
+  - Text: COATRACK
+    IsFound: 0
+  - Text: COFFEEMAKER
+    IsFound: 0
+  - Text: COMB
+    IsFound: 0
+  - Text: COMPUTER
+    IsFound: 0
+  - Text: CONTAINER
+    IsFound: 0
+  - Text: COOKER
+    IsFound: 0
+  - Text: COUCH
+    IsFound: 0
+  - Text: CUP
+    IsFound: 0
+  - Text: CUPBOARD
+    IsFound: 0
+  - Text: CURTAIN
+    IsFound: 0
+  - Text: CUSHION
+    IsFound: 0
+  - Text: DESK
+    IsFound: 0
+  - Text: DETERGENT
+    IsFound: 0
+  - Text: DIARY
+    IsFound: 0
+  - Text: DISH
+    IsFound: 0
+  - Text: DOOR
+    IsFound: 0
+  - Text: DOORBELL
+    IsFound: 0
+  - Text: DOORKNOB
+    IsFound: 0
+  - Text: DRAWER
+    IsFound: 0
+  - Text: DRILL
+    IsFound: 0
+  - Text: DRYER
+    IsFound: 0
+  - Text: DUSTER
+    IsFound: 0
+  - Text: ENVELOPE
+    IsFound: 0
+  - Text: FAN
+    IsFound: 0
+  - Text: FAUCET
+    IsFound: 0
+  - Text: FILE
+    IsFound: 0
+  - Text: FIREPLACE
+    IsFound: 0
+  - Text: FLASHLIGHT
+    IsFound: 0
+  - Text: FLOORMAT
+    IsFound: 0
+  - Text: FLOWERPOT
+    IsFound: 0
+  - Text: FOLDER
+    IsFound: 0
+  - Text: FORK
+    IsFound: 0
+  - Text: FREEZER
+    IsFound: 0
+  - Text: FRIDGE
+    IsFound: 0
+  - Text: FUNNEL
+    IsFound: 0
+  - Text: GARAGE
+    IsFound: 0
+  - Text: GLASS
+    IsFound: 0
+  - Text: GLOBE
+    IsFound: 0
+  - Text: GRATER
+    IsFound: 0
+  - Text: HAMMER
+    IsFound: 0
+  - Text: HANGER
+    IsFound: 0
+  - Text: HATRACK
+    IsFound: 0
+  - Text: HEADBOARD
+    IsFound: 0
+  - Text: HEATER
+    IsFound: 0
+  - Text: HOSE
+    IsFound: 0
+  - Text: IRON
+    IsFound: 0
+  - Text: JAR
+    IsFound: 0
+  - Text: JUG
+    IsFound: 0
+  - Text: KETTLE
+    IsFound: 0
+  - Text: KEY
+    IsFound: 0
+  - Text: KEYBOARD
+    IsFound: 0
+  - Text: KNIFE
+    IsFound: 0
+  - Text: LADDER
+    IsFound: 0
+  - Text: LADLE
+    IsFound: 0
+  - Text: LAMP
+    IsFound: 0
+  - Text: LAPTOP
+    IsFound: 0
+  - Text: LAUNDRYBASKET
+    IsFound: 0
+  - Text: LIGHT
+    IsFound: 0
+  - Text: LOCK
+    IsFound: 0
+  - Text: MAGAZINE
+    IsFound: 0
+  - Text: MAGNET
+    IsFound: 0
+  - Text: MATTRESS
+    IsFound: 0
+  - Text: MICROWAVE
+    IsFound: 0
+  - Text: MIRROR
+    IsFound: 0
+  - Text: MOP
+    IsFound: 0
+  - Text: MOUSE
+    IsFound: 0
+  - Text: MUG
+    IsFound: 0
+  - Text: NAPKIN
+    IsFound: 0
+  - Text: NEWSPAPER
+    IsFound: 0
+  - Text: NOTEBOOK
+    IsFound: 0
+  - Text: OFFICECHAIR
+    IsFound: 0
+  - Text: ORGANIZER
+    IsFound: 0
+  - Text: OVEN
+    IsFound: 0
+  - Text: PAINTBRUSH
+    IsFound: 0
+  - Text: PAN
+    IsFound: 0
+  - Text: PAPER
+    IsFound: 0
+  - Text: PAPERCLIP
+    IsFound: 0
+  - Text: PEN
+    IsFound: 0
+  - Text: PENCIL
+    IsFound: 0
+  - Text: PILLOW
+    IsFound: 0
+  - Text: PILLOWCASE
+    IsFound: 0
+  - Text: PITCHER
+    IsFound: 0
+  - Text: PLATE
+    IsFound: 0
+  - Text: PLUG
+    IsFound: 0
+  - Text: PLUNGER
+    IsFound: 0
+  - Text: POT
+    IsFound: 0
+  - Text: PRINTER
+    IsFound: 0
+  - Text: RACK
+    IsFound: 0
+  - Text: RAZOR
+    IsFound: 0
+  - Text: REFRIGERATOR
+    IsFound: 0
+  - Text: REMOTE
+    IsFound: 0
+  - Text: ROLLINGPIN
+    IsFound: 0
+  - Text: RUG
+    IsFound: 0
+  - Text: SAFE
+    IsFound: 0
+  - Text: SAUCEPAN
+    IsFound: 0
+  - Text: SCISSORS
+    IsFound: 0
+  - Text: SCREW
+    IsFound: 0
+  - Text: SCREWDRIVER
+    IsFound: 0
+  - Text: SHELF
+    IsFound: 0
+  - Text: SHOVEL
+    IsFound: 0
+  - Text: SHOWER
+    IsFound: 0
+  - Text: SINK
+    IsFound: 0
+  - Text: SOAP
+    IsFound: 0
+  - Text: SOAPDISH
+    IsFound: 0
+  - Text: SOFA
+    IsFound: 0
+  - Text: SPATULA
+    IsFound: 0
+  - Text: SPEAKER
+    IsFound: 0
+  - Text: SPOON
+    IsFound: 0
+  - Text: SPONGE
+    IsFound: 0
+  - Text: STAPLER
+    IsFound: 0
+  - Text: STOOL
+    IsFound: 0
+  - Text: STOVE
+    IsFound: 0
+  - Text: TABLE
+    IsFound: 0
+  - Text: TABLECLOTH
+    IsFound: 0
+  - Text: TABLET
+    IsFound: 0
+  - Text: TEAPOT
+    IsFound: 0
+  - Text: TELEVISION
+    IsFound: 0
+  - Text: THERMOS
+    IsFound: 0
+  - Text: TISSUE
+    IsFound: 0
+  - Text: TOASTER
+    IsFound: 0
+  - Text: TOILET
+    IsFound: 0
+  - Text: TOOTHBRUSH
+    IsFound: 0
+  - Text: TOOTHPASTE
+    IsFound: 0
+  - Text: TOWEL
+    IsFound: 0
+  - Text: TRASHCAN
+    IsFound: 0
+  - Text: TRAY
+    IsFound: 0
+  - Text: UMBRELLA
+    IsFound: 0
+  - Text: VACUUM
+    IsFound: 0
+  - Text: VASE
+    IsFound: 0
+  - Text: WARDROBE
+    IsFound: 0
+  - Text: WASHER
+    IsFound: 0
+  - Text: WATCH
+    IsFound: 0
+  - Text: WATERBOTTLE
+    IsFound: 0
+  - Text: WATERINGCAN
+    IsFound: 0
+  - Text: WHISK
+    IsFound: 0
+  - Text: WINDOW
+    IsFound: 0
+  - Text: ZIPPER
+    IsFound: 0

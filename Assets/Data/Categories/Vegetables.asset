@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Vegetables
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Vegetables
+  Words:
+  - Text: ARTICHOKE
+    IsFound: 0
+  - Text: ARUGULA
+    IsFound: 0
+  - Text: ASPARAGUS
+    IsFound: 0
+  - Text: BEAN
+    IsFound: 0
+  - Text: BEET
+    IsFound: 0
+  - Text: BEETROOT
+    IsFound: 0
+  - Text: BOKCHOY
+    IsFound: 0
+  - Text: BROCCOLI
+    IsFound: 0
+  - Text: BRUSSELSPROUT
+    IsFound: 0
+  - Text: BURDOCK
+    IsFound: 0
+  - Text: CABBAGE
+    IsFound: 0
+  - Text: CAPSICUM
+    IsFound: 0
+  - Text: CARROT
+    IsFound: 0
+  - Text: CAULIFLOWER
+    IsFound: 0
+  - Text: CELERIAC
+    IsFound: 0
+  - Text: CELERY
+    IsFound: 0
+  - Text: CHARD
+    IsFound: 0
+  - Text: CHICKPEA
+    IsFound: 0
+  - Text: CHILI
+    IsFound: 0
+  - Text: CORN
+    IsFound: 0
+  - Text: COURGETTE
+    IsFound: 0
+  - Text: CUCUMBER
+    IsFound: 0
+  - Text: DAIKON
+    IsFound: 0
+  - Text: EGGPLANT
+    IsFound: 0
+  - Text: ENDIVE
+    IsFound: 0
+  - Text: FENNEL
+    IsFound: 0
+  - Text: GARLIC
+    IsFound: 0
+  - Text: GINGER
+    IsFound: 0
+  - Text: GREENBEAN
+    IsFound: 0
+  - Text: HORSERADISH
+    IsFound: 0
+  - Text: JALAPENO
+    IsFound: 0
+  - Text: KALE
+    IsFound: 0
+  - Text: KOHLRABI
+    IsFound: 0
+  - Text: LEEK
+    IsFound: 0
+  - Text: LENTIL
+    IsFound: 0
+  - Text: LETTUCE
+    IsFound: 0
+  - Text: LIMA
+    IsFound: 0
+  - Text: LOTUSROOT
+    IsFound: 0
+  - Text: MUSHROOM
+    IsFound: 0
+  - Text: OKRA
+    IsFound: 0
+  - Text: OLIVE
+    IsFound: 0
+  - Text: ONION
+    IsFound: 0
+  - Text: PARSLEY
+    IsFound: 0
+  - Text: PARSNIP
+    IsFound: 0
+  - Text: PEA
+    IsFound: 0
+  - Text: PEANUT
+    IsFound: 0
+  - Text: PEPPER
+    IsFound: 0
+  - Text: POTATO
+    IsFound: 0
+  - Text: PUMPKIN
+    IsFound: 0
+  - Text: RADISH
+    IsFound: 0
+  - Text: RHUBARB
+    IsFound: 0
+  - Text: RUTABAGA
+    IsFound: 0
+  - Text: SCALLION
+    IsFound: 0
+  - Text: SHALLOT
+    IsFound: 0
+  - Text: SORREL
+    IsFound: 0
+  - Text: SPINACH
+    IsFound: 0
+  - Text: SQUASH
+    IsFound: 0
+  - Text: SWEETCORN
+    IsFound: 0
+  - Text: SWEETPOTATO
+    IsFound: 0
+  - Text: TARO
+    IsFound: 0
+  - Text: TOMATILLO
+    IsFound: 0
+  - Text: TOMATO
+    IsFound: 0
+  - Text: TURNIP
+    IsFound: 0
+  - Text: WATERCRESS
+    IsFound: 0
+  - Text: YAM
+    IsFound: 0
+  - Text: ZUCCHINI
+    IsFound: 0

@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f96da218c6f3d4b996a45fe3fdb8a8, type: 3}
+  m_Name: Food
+  m_EditorClassIdentifier: Assembly-CSharp::WordCategorySO
+  CategoryName: Food
+  Words:
+  - Text: BACON
+    IsFound: 0
+  - Text: BAGEL
+    IsFound: 0
+  - Text: BARBECUE
+    IsFound: 0
+  - Text: BISCUIT
+    IsFound: 0
+  - Text: BREAD
+    IsFound: 0
+  - Text: BROTH
+    IsFound: 0
+  - Text: BROWNIE
+    IsFound: 0
+  - Text: BURGER
+    IsFound: 0
+  - Text: BURRITO
+    IsFound: 0
+  - Text: BUTTER
+    IsFound: 0
+  - Text: CAKE
+    IsFound: 0
+  - Text: CANDY
+    IsFound: 0
+  - Text: CARAMEL
+    IsFound: 0
+  - Text: CASSEROLE
+    IsFound: 0
+  - Text: CAVIAR
+    IsFound: 0
+  - Text: CEREAL
+    IsFound: 0
+  - Text: CHEESE
+    IsFound: 0
+  - Text: CHEESEBURGER
+    IsFound: 0
+  - Text: CHEESECAKE
+    IsFound: 0
+  - Text: CHICKEN
+    IsFound: 0
+  - Text: CHILI
+    IsFound: 0
+  - Text: CHIPS
+    IsFound: 0
+  - Text: CHOCOLATE
+    IsFound: 0
+  - Text: CHOWDER
+    IsFound: 0
+  - Text: COOKIE
+    IsFound: 0
+  - Text: CREAM
+    IsFound: 0
+  - Text: CREPE
+    IsFound: 0
+  - Text: CROISSANT
+    IsFound: 0
+  - Text: CURRY
+    IsFound: 0
+  - Text: CUSTARD
+    IsFound: 0
+  - Text: DONUT
+    IsFound: 0
+  - Text: DUMPLING
+    IsFound: 0
+  - Text: EGG
+    IsFound: 0
+  - Text: ESPRESSO
+    IsFound: 0
+  - Text: FALAFEL
+    IsFound: 0
+  - Text: FRIES
+    IsFound: 0
+  - Text: GELATO
+    IsFound: 0
+  - Text: GRANOLA
+    IsFound: 0
+  - Text: GRAVY
+    IsFound: 0
+  - Text: HAM
+    IsFound: 0
+  - Text: HAMBURGER
+    IsFound: 0
+  - Text: HONEY
+    IsFound: 0
+  - Text: HOTDOG
+    IsFound: 0
+  - Text: ICECREAM
+    IsFound: 0
+  - Text: JAM
+    IsFound: 0
+  - Text: JELLY
+    IsFound: 0
+  - Text: JUICE
+    IsFound: 0
+  - Text: KEBAB
+    IsFound: 0
+  - Text: KETCHUP
+    IsFound: 0
+  - Text: LASAGNA
+    IsFound: 0
+  - Text: LEMONADE
+    IsFound: 0
+  - Text: LOBSTER
+    IsFound: 0
+  - Text: LOLLIPOP
+    IsFound: 0
+  - Text: MACARON
+    IsFound: 0
+  - Text: MACARONI
+    IsFound: 0
+  - Text: MAYONNAISE
+    IsFound: 0
+  - Text: MEATBALL
+    IsFound: 0
+  - Text: MILK
+    IsFound: 0
+  - Text: MILKSHAKE
+    IsFound: 0
+  - Text: MUFFIN
+    IsFound: 0
+  - Text: NACHOS
+    IsFound: 0
+  - Text: NOODLES
+    IsFound: 0
+  - Text: NUGGETS
+    IsFound: 0
+  - Text: OATMEAL
+    IsFound: 0
+  - Text: OMELET
+    IsFound: 0
+  - Text: PANCAKE
+    IsFound: 0
+  - Text: PASTA
+    IsFound: 0
+  - Text: PASTRY
+    IsFound: 0
+  - Text: PEANUTBUTTER
+    IsFound: 0
+  - Text: PICKLE
+    IsFound: 0
+  - Text: PIE
+    IsFound: 0
+  - Text: PIZZA
+    IsFound: 0
+  - Text: POPCORN
+    IsFound: 0
+  - Text: PORRIDGE
+    IsFound: 0
+  - Text: PRETZEL
+    IsFound: 0
+  - Text: PUDDING
+    IsFound: 0
+  - Text: QUESADILLA
+    IsFound: 0
+  - Text: RAMEN
+    IsFound: 0
+  - Text: RAVIOLI
+    IsFound: 0
+  - Text: RICE
+    IsFound: 0
+  - Text: SALAD
+    IsFound: 0
+  - Text: SALAMI
+    IsFound: 0
+  - Text: SALMON
+    IsFound: 0
+  - Text: SANDWICH
+    IsFound: 0
+  - Text: SAUCE
+    IsFound: 0
+  - Text: SAUSAGE
+    IsFound: 0
+  - Text: SHERBET
+    IsFound: 0
+  - Text: SMOOTHIE
+    IsFound: 0
+  - Text: SOUP
+    IsFound: 0
+  - Text: SPAGHETTI
+    IsFound: 0
+  - Text: STEAK
+    IsFound: 0
+  - Text: STEW
+    IsFound: 0
+  - Text: SUSHI
+    IsFound: 0
+  - Text: TACO
+    IsFound: 0
+  - Text: TOAST
+    IsFound: 0
+  - Text: TOFFEE
+    IsFound: 0
+  - Text: VINEGAR
+    IsFound: 0
+  - Text: WAFFLE
+    IsFound: 0
+  - Text: YOGURT
+    IsFound: 0
